@@ -591,15 +591,17 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 ### Core Android
 
 [x] Explain Activity and Fragment lifecycle. (Complete diagram [GitHub](https://github.com/xxv/android-lifecycle), simplified diagram for [Activity](https://developer.android.com/guide/components/activities/activity-lifecycle.html#alc), [Fragment](https://developer.android.com/guide/components/fragments.html#Lifecycle))
+
 [x] Tell all the Android application components.
+
 [x] Service vs IntentService. [StackOverflow](https://stackoverflow.com/a/15772151/5153275)
-[x] What is the structure of an Android Application?
-[x] How to persist data in an Android app?
-[x] How would you perform a long-running operation in an application?
-[x] How would you communicate between two Fragments?
-[x] Explain Android notification system?
-[x] How can two distinct Android apps interact?
-[x] What is Fragment?
+* What is the structure of an Android Application?
+* How to persist data in an Android app?
+* How would you perform a long-running operation in an application?
+* How would you communicate between two Fragments?
+* Explain Android notification system?
+* How can two distinct Android apps interact?
+* What is Fragment?
 * Why is it recommended to use only the default constructor to create a fragment? [StackOverflow](https://stackoverflow.com/a/16042750/2809326)
 * Why Bundle class is used for data passing and why cannot we use simple Map data structure
 * What is Dialog in Android?
