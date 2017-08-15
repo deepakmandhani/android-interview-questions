@@ -626,14 +626,20 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 [x] What is the difference between Serializable and Parcelable? Which is the best approach in Android?
 
-* What are "launch modes"? [Mindorks](https://blog.mindorks.com/android-activity-launchmode-explained-cbc6cf996802)
+[x] What are "launch modes"? [Mindorks](https://blog.mindorks.com/android-activity-launchmode-explained-cbc6cf996802)
 
-* What are Intents? [StackOverflow](https://stackoverflow.com/questions/6578051/what-is-an-intent-in-android)
-* What is an Implicit Intent?
-* What is an Explicit Intent?
-* What is an AsyncTask?
-* What is a BroadcastReceiver? [StackOverflow](https://stackoverflow.com/questions/5296987/what-is-broadcastreceiver-and-when-we-use-it)
-* What is a LocalBroadcastManager? [Developer Android](https://developer.android.com/reference/android/support/v4/content/LocalBroadcastManager.html)
+[x] What are Intents? [StackOverflow](https://stackoverflow.com/questions/6578051/what-is-an-intent-in-android)
+
+[x] What is an Implicit Intent?
+
+[x] What is an Explicit Intent?
+
+[x] What is an AsyncTask?
+
+[x] What is a BroadcastReceiver? [StackOverflow](https://stackoverflow.com/questions/5296987/what-is-broadcastreceiver-and-when-we-use-it)
+
+[x] What is a LocalBroadcastManager? [Developer Android](https://developer.android.com/reference/android/support/v4/content/LocalBroadcastManager.html)
+
 * What is a JobScheduler? [Vogella](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
 * What is DDMS and what can you do with it?
 * What is the support library? Why was it introduced?[MartianCraft](http://martiancraft.com/blog/2015/06/android-support-library/)
