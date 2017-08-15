@@ -618,11 +618,16 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 [x] What is View in Android?
 
-* Can you create custom views? How?
-* What are ViewGroups and how they are different from the views?
-* What is the difference between a fragment and an activity? Explain the relationship between the two.
-* What is the difference between Serializable and Parcelable? Which is the best approach in Android?
+[x] Can you create custom views? How?
+
+[x] What are ViewGroups and how they are different from the views?
+
+[x] What is the difference between a fragment and an activity? Explain the relationship between the two.
+
+[x] What is the difference between Serializable and Parcelable? Which is the best approach in Android?
+
 * What are "launch modes"? [Mindorks](https://blog.mindorks.com/android-activity-launchmode-explained-cbc6cf996802)
+
 * What are Intents? [StackOverflow](https://stackoverflow.com/questions/6578051/what-is-an-intent-in-android)
 * What is an Implicit Intent?
 * What is an Explicit Intent?
