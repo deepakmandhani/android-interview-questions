@@ -640,17 +640,28 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 [x] What is a LocalBroadcastManager? [Developer Android](https://developer.android.com/reference/android/support/v4/content/LocalBroadcastManager.html)
 
-* What is a JobScheduler? [Vogella](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
-* What is DDMS and what can you do with it?
+[x] What is a JobScheduler? [Vogella](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
+
+[x] What is DDMS and what can you do with it?
+
 * What is the support library? Why was it introduced?[MartianCraft](http://martiancraft.com/blog/2015/06/android-support-library/)
+
 * What is a ContentProvider and what is it typically used for?
-* What is Android Data Binding? [Developer Android](https://developer.android.com/topic/libraries/data-binding/index.html)
-* What are Android Architecture Components? [Developer Android](https://developer.android.com/topic/libraries/architecture/index.html)
-* What is ADB?
+
+[x] What is Android Data Binding? [Developer Android](https://developer.android.com/topic/libraries/data-binding/index.html)
+
+[x] What are Android Architecture Components? [Developer Android](https://developer.android.com/topic/libraries/architecture/index.html)
+
+[x] What is ADB?
+
 * What is ANR? How can the ANR be prevented?
+
 * What is `AndroidManifest.xml`?
+
 * Describe how broadcasts and intents work to be able to pass messages around your app?
+
 * How do you handle `Bitmaps` in Android as it takes too much memory?
+
 * What are different ways to store data in your Android app?
 * What is the Dalvik Virtual Machine?
 * What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
