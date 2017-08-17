@@ -722,34 +722,38 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 [x] What is a `SurfaceView`?
 
-* What is the difference between `ListView` and `RecyclerView`?
+[x] What is the difference between `ListView` and `RecyclerView`?
 
-* What is the ViewHolder pattern? Why should we use it?
+[x] What is the ViewHolder pattern? Why should we use it?
 
-* What is a PendingIntent?
+[x] What is a PendingIntent?
 
-* Can you manually call the Garbage collector?
-* What is the best way to update the screen periodically?
+[x] Can you manually call the Garbage collector?
 
-* What are the different types of Broadcasts?
+[x] What is the best way to update the screen periodically?
+
+[x] What are the different types of Broadcasts?
 
 * Have you developed widgets? Describe. [Mindorks](https://blog.mindorks.com/android-widgets-ad3d166458d3)
 
-* What is Context? How is it used? [Medium](
+[x] What is Context? How is it used? [Medium](
 https://medium.com/p/understanding-context-in-android-application-330913e32514)
 
 * Do you know what is the view tree? How can you optimize its depth?
 
-* What is the `onTrimMemory` method?
+[x] What is the `onTrimMemory` method?
+
+* What are different levels in onTrimMemory?
 
 * Is it possible to run an Android app in multiple processes? How?
 
 * How does the OutOfMemory happens?
 
-* What is a `spannable`?
+[x] What is a `spannable`?
 
-* What is `overdraw`? [Developer Android](https://developer.android.com/topic/performance/rendering/overdraw.html)
-* What is renderscript? [Mindorks](https://blog.mindorks.com/comparing-android-ndk-and-renderscript-1a718c01f6fe)
+[x] What is `overdraw`? [Developer Android](https://developer.android.com/topic/performance/rendering/overdraw.html)
+
+[x] What is renderscript? [Mindorks](https://blog.mindorks.com/comparing-android-ndk-and-renderscript-1a718c01f6fe)
 
 * What are the differences between Dalvik and ART?
 
