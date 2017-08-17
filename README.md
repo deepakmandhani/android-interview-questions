@@ -684,39 +684,43 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 [x] Difference between `View.GONE` and `View.INVISIBLE`?
 
-* What is the difference between a regular bitmap and a nine-patch image?
+[x] What is the difference between a regular bitmap and a nine-patch image?
 
-* Tell about the bitmap pool. [Mindorks](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
+[x] Tell about the bitmap pool. [Mindorks](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
 
-* How to avoid memory leaks in Android?
+[x] How to avoid memory leaks in Android?
 
 * What are widgets on Home-Screen in Android?
 
-* What is AAPT?
+[x] What is AAPT?
 
-* How do you find memory leaks in Android applications?
+[x] How do you find memory leaks in Android applications?
 
-* How do you troubleshoot a crashing application?
+[x] How do you troubleshoot a crashing application?
 
-* Why should you avoid to run non-ui code on the main thread?
+[x] Why should you avoid to run non-ui code on the main thread?
 
-* How did you support different types of resolutions?
+[x] How did you support different types of resolutions?
 
-* What is Doze? What about App Standby?
+[x] What is Doze? 
 
-* What can you use for background processing in Android?
+* What about App Standby?
 
-* What is ORM? How does it work?
+[x] What can you use for background processing in Android?
 
-* What is a Loader?
+[x] What is ORM? How does it work?
 
-* What is the NDK and why is it useful?
+[x] What is a Loader?
+
+[x] What is the NDK 
+
+* Why NDK is useful?
 
 * What is the StrictMode? [Mindorks](https://blog.mindorks.com/use-strictmode-to-find-things-you-did-by-accident-in-android-development-4cf0e7c8d997)
 
-* What is Lint? What is it used for?
+[x] What is Lint? What is it used for?
 
-* What is a `SurfaceView`?
+[x] What is a `SurfaceView`?
 
 * What is the difference between `ListView` and `RecyclerView`?
 
